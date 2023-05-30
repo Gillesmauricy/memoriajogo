@@ -58,7 +58,7 @@ header {
 }
 
 .back {
-  background-image: url('../images/multi.jpg');
+  background-image: url('../images/todos.jpg');
   backface-visibility: hidden;
 }
 
